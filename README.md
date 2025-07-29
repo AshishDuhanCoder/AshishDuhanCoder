@@ -1,6 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ashish Duhan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='left' src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/team-working-on-devops-12678166-10490107.mp4" width="500">
+<img align='left' src="https://private-user-images.githubusercontent.com/74038190/238355372-4aba8602-6a81-4772-af1f-f593ee6c389f.gif" width="230">
 
-
-# https://github.com/user-attachments/assets/68340f3f-05cf-4969-85cb-af54750b2d3a
+#https://private-user-images.githubusercontent.com/74038190/238355372-4aba8602-6a81-4772-af1f-f593ee6c389f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3NjkzMDQsIm5iZiI6MTc1Mzc2OTAwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzItNGFiYTg2MDItNmE4MS00NzcyLWFmMWYtZjU5M2VlNmMzODlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDA2MDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2NjNkZGNhZTBjOTc1MjAzNDM4NDEwMDRiZGM4ZmJiNzMyZDMyZjQzNTliN2Q0ODYwNjhiODk2MWFjYjg3NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._O5w5OTHGYNoEUJ7_6NSGvLrwEK4mRayg1vXac0bEAk
